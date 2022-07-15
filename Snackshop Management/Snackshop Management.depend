@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657894665 source:c:\users\admin\desktop\jolly\snackshop management program\snackshop management\main.c
+	<stdio.h>
+	<stdlib.h>
+
